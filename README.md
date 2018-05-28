@@ -7,6 +7,9 @@ arc contest : smart_smart_parking_lot
 负责人		：  徐康
 单位		：  西安电子科技大学
 
+
+注意：  ！！！编译的时候一定要用我的arc_smart_parking_lot/ambarc_git/board/emsk/common/文件，因为我在emsk_timer.c文件实现了一个 millis()函数，用来返回系统时间，main.c调用了这个函数。！！！
+
 开发环境：
 	开发板版本：emsk 1.1
 	固件版本：arcem4
