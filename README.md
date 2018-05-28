@@ -33,3 +33,11 @@ arc contest : smart_smart_parking_lot
 
 舵机控制：
 	由于arc开发没有pwm接口，无法直接控制舵机，所有通过i2c接口扩展了一个pwm接口。
+
+
+android 源码地址：
+	  
+	https://github.com/kangkoilxu/smart_parking_lot_android_0
+	https://github.com/kangkoilxu/smart_parking_lot_android_1
+	
+	
