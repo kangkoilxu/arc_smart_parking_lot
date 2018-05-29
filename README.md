@@ -8,6 +8,8 @@ arc contest : smart_smart_parking_lot
 单位		：  西安电子科技大学
 
 
+视频地址：http://v.youku.com/v_show/id_XMzYzMTg2MjgwOA==.html?spm=a2h3j.8428770.3416059.1
+
 注意：  ！！！编译的时候一定要用我的arc_smart_parking_lot/ambarc_git/board/emsk/common/文件，因为我在emsk_timer.c文件实现了一个 millis()函数，用来返回系统时间，main.c调用了这个函数。！！！
 
 开发环境：
