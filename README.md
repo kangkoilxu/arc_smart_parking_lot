@@ -39,7 +39,7 @@ arc contest : smart_smart_parking_lot
 
 android 源码地址：
 	  
-	https://github.com/kangkoilxu/smart_parking_lot_android_0
-	https://github.com/kangkoilxu/smart_parking_lot_android_1
+	https://github.com/freeDevelope/Android_Things_Iot_HyperLPR4Android.git
+	https://github.com/freeDevelope/ParkingLot_v2.git
 	
 	
